@@ -4,7 +4,7 @@ Repositório criado com o objetivo de cumprir com as exigências da atividade de
 ## Projetos
 Este repositório agrupa todos meus projetos acadêmicos e profissionais já realizados ou em desenvolvimento
 
-##Recursos Utilizados
+## Recursos Utilizados
 Google Workspace
 Canvas
 Pycharm
